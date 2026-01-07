@@ -8,6 +8,3 @@ Soy un profesional en **DevSecOps** con experiencia en la automatización de inf
 - 🚀 Enfoque: **Infraestructura como Código (IaC) y automatización de seguridad.**
 
 ---
-### Mis Estadísticas 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=chep88&show_icons=true&theme=radical&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chep88&layout=compact&theme=radical&hide_border=true)
